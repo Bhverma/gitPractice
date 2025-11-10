@@ -12,3 +12,8 @@ print(f"Downloading Mistral 7B-Instruct-v0.3 models to {mistral_models_path}..."
 
 ###########################3Third Edit Completed##############################################
 print("Download completed.")
+
+
+
+# Now you can load the model from mistral_models_path using your preferred library (e.g., transformers, etc.)
+#Changes to main branch to another branch
