@@ -12,8 +12,3 @@ print(f"Downloading Mistral 7B-Instruct-v0.3 models to {mistral_models_path}..."
 
 ###########################3Third Edit Completed##############################################
 print("Download completed.")
-
-
-
-####################3changes for new branch##########################
-# Additional code or comments can be added here for the new branch.
